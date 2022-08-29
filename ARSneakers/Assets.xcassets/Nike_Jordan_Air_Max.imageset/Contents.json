@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Nike_Jordan_Air_Max.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

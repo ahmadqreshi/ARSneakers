@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "reebok-crossfit.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
